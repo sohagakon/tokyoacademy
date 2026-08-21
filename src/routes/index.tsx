@@ -368,7 +368,7 @@ function Index() {
                   📧 <b>Email:</b> info@tokyoacademy.com
                 </p>
                 <p>
-                  📍 <b>Office:</b> Dhaka, Bangladesh
+                  📍 <b>Office:</b> Alipur Bazar, Mahipur, Kalapara, Patuakhali
                 </p>
               </div>
             </div>
