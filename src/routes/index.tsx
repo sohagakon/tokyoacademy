@@ -409,6 +409,8 @@ function Index() {
             <a href="#study">Study in Japan</a>
             <a href="#career">Job Support</a>
             <a href="#contact">Contact</a>
+            <a href="/auth">Staff Login</a>
+
           </div>
           <div>
             <h4>Follow Us</h4>
