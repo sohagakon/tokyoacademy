@@ -359,16 +359,13 @@ function Index() {
               <p>আপনার শিক্ষা ও career goal আমাদের জানান। একজন advisor আপনার সাথে যোগাযোগ করবে।</p>
               <div className="contact-info">
                 <p>
-                  📞 <b>Phone:</b> +880 1717588112
+                  💬 <b>WhatsApp:</b> +880 1750168451
                 </p>
                 <p>
-                  💬 <b>WhatsApp:</b> +880 1763902264
+                  📧 <b>Email:</b> tokyoacademy.bd@gmail.com
                 </p>
                 <p>
-                  📧 <b>Email:</b> info@tokyoacademy.com
-                </p>
-                <p>
-                  📍 <b>Office:</b> Alipur Bazar, Mahipur, Kalapara, Patuakhali
+                  📍 <b>Office:</b> Alipur Bazar, Kuakata, Kalapara, Patuakhali, 8652
                 </p>
               </div>
             </div>
