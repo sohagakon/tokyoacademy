@@ -411,7 +411,13 @@ function Index() {
           </div>
           <div>
             <h4>Follow Us</h4>
-            <a href="#">Facebook</a>
+            <a
+              href="https://www.facebook.com/TokyoAcademyBD/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Facebook
+            </a>
             <a href="#">Instagram</a>
             <a href="#">YouTube</a>
             <a href="#">TikTok</a>
