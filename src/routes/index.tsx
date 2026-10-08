@@ -367,6 +367,18 @@ function Index() {
                 <p>
                   📍 <b>Office:</b> Alipur Bazar, Kuakata, Kalapara, Patuakhali, 8652
                 </p>
+                <p>
+                  👍{" "}
+                  <b>Facebook:</b>{" "}
+                  <a
+                    className="link-accent"
+                    href="https://www.facebook.com/TokyoAcademyBD/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    TokyoAcademyBD
+                  </a>
+                </p>
               </div>
             </div>
             <form className="form" onSubmit={submitForm}>
@@ -411,7 +423,13 @@ function Index() {
           </div>
           <div>
             <h4>Follow Us</h4>
-            <a href="#">Facebook</a>
+            <a
+              href="https://www.facebook.com/TokyoAcademyBD/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Facebook
+            </a>
             <a href="#">Instagram</a>
             <a href="#">YouTube</a>
             <a href="#">TikTok</a>
